@@ -35,6 +35,9 @@ navigation:
   - title: Projects
     url: /projects/
     desc: Stuffs I like to do
+  - title: Design
+    url: /design/
+    desc: Fundamentals of Design
   - title: Work
     url: /work/
     desc: Stuffs I hate to do
@@ -66,4 +69,3 @@ exclude:
   - vendor
 gems:
   - jekyll-paginate
-
