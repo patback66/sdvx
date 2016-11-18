@@ -16,3 +16,11 @@ fundamentals will be applicable for any custom arcade controller.
 a unique controller. For home play, it may be difficult or expensive to acquire a
 controller. For the more technically inclined, building a custom controller may
 controller may be the best option.
+
+## Where to Start
+
+The three main sections of this website are:
+
+- [Design](design/) - coming up with what the controller will look like
+- [Manufacturing](manufacturing/) - how to build the controller
+- [Programming](programming/) - how to program and wire the controller
