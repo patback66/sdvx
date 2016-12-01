@@ -21,7 +21,7 @@ tutorials for your program.
 
 ## The Basic Parts
 
-img here
+![Controller Breakdown](../../docs/assets/img/Koken_Infographic.png)
 
 Before you can even begin designing something, you need to know what you need to
 design. A large project may seem impossible to tackle at first so breaking it down
@@ -40,8 +40,6 @@ three main components:
 
 ### The Top Plate
 
-img here
-
 The top plate is the part of the controller you will be interacting with.
 This plate, or possibly a few plates hold the buttons for your controller.
 Many different materials may be used but thin wood or acrylic are preferred.
@@ -50,8 +48,6 @@ and other components. A sturdy top is important for the longevity of your contro
 as intense play may damage weaker materials like cardboard.
 
 ### The Frame
-
-img here
 
 The frame is the main body of the controller. The top and bottom plates will be
 attached to the frame, so it must be thick enough for screws or glue to hold it together.
@@ -63,8 +59,6 @@ properly coated inside.
 
 ### The Bottom Plate
 
-img here
-
 The bottom plate holds everything inside from below. This is what you will be
 resting on a table, your lap, or wherever you have your controller. Typically
 the same material as the top plate will be fine. Keep in mind that permanent
@@ -73,8 +67,6 @@ a controller after assembly. Keeping at least the top or bottom plate easily rem
 is highly recommmended.
 
 ## Where To Begin
-
-img here
 
 Now that the main components of the controller have been identified, a rough
 idea of the final product can be made. Start drawing out each component of the
@@ -89,4 +81,4 @@ will be making.
 At this point, you should have a good idea of what your controller will look like.
 You're ready to begin the next steps: buying the components and finalizing the design.
 
-[Next Section](../../design/main-design)
+[Next Section](../../design/design-parts)
