@@ -9,7 +9,8 @@ subtitle: Cutting the Plates
 
 For the plates, a laser cutter was used. This may not be accessible for all people,
 but it makes manufacturing much more simple. The same results could be achieved
-using a jig saw.
+using a jig saw and tracing the cut pattern onto the controller. Drill holes at each
+corner to provide the jig saw space to turn. 
 
 ## Equipment
 
