@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Microcontroller and Wiring
-permalink: /programming/microcontroller_wiring
+permalink: programming/microcontroller_wiring/
 subtitle: Choosing a Microcontroller and Wiring the Controller
 ---
 
