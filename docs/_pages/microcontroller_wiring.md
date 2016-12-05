@@ -84,4 +84,4 @@ begin using it.
 
 [Next Section](/programming/code)
 
-[comment]: <> (958 Words)
+[comment]: <> (536 Words)

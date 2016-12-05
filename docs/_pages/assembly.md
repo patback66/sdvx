@@ -80,6 +80,6 @@ affixed to the bottom plate to provide grip on a table surface.
 The controller is nearing completion! It just needs wiring and programming to be
 functional.
 
-[Next Section](/programming/)
+[Next Section](../../programming/)
 
 [comment]: <> (447 Words)

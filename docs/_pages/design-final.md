@@ -118,8 +118,10 @@ Now that you have the required dimensions, you may model the each of the plates 
 
 The sample schematics are available under my [github page](https://github.com/patback66/sdvx/tree/master/cad)
 
+[Next Section](../../manufacturing/)
+
 ## Footnotes
 1.  These instructions are intended for makers with a minimum of basic skills in CAD programs and measuring.
 2.  Schematics for an arcade button. Source: "9x Beatmania IIDX Video Game DIY Parts LED Illuminated Rectangular Push Button" https://www.aliexpress.com/item/9x-Arcade-Beatmania-IIDX-DIY-Kit-Parts-LED-Light-Illuminated-Rectangular-Buttons/32654141915.html Accessed October 27, 2016
 
-[comment]: <> (958 Words)
+[comment]: <> (974 Words)

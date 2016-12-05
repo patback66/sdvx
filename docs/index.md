@@ -24,3 +24,6 @@ The three main sections of this website are:
 - [Design](design/) - coming up with what the controller will look like
 - [Manufacturing](manufacturing/) - how to build the controller
 - [Programming](programming/) - how to program and wire the controller
+
+[comment]: <> (128 Words)
+[comment]: <> (Total Word Count: ~5139)
