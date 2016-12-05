@@ -21,7 +21,7 @@ tutorials for your program.
 
 ## The Basic Parts
 
-![Controller Breakdown](../../docs/assets/img/Koken_Infographic.png)
+![Controller Breakdown](../../assets/img/Koken_Infographic.png)
 
 Before you can even begin designing something, you need to know what you need to
 design. A large project may seem impossible to tackle at first so breaking it down
@@ -82,3 +82,5 @@ At this point, you should have a good idea of what your controller will look lik
 You're ready to begin the next steps: buying the components and finalizing the design.
 
 [Next Section](../../design/design-parts)
+
+[comment]: <> (609 Words)
