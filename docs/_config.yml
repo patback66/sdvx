@@ -50,9 +50,9 @@ navigation:
   #- title: Work
   #  url: /work/
   #  desc: Stuffs I hate to do
-  - title: About
-    url: /about/
-    desc: Learn about me
+  #- title: About
+  #  url: /about/
+  #  desc: Learn about me
 
 # Used by Jekyll to recognize what is a post and what is a page
 defaults:
