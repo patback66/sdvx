@@ -36,6 +36,8 @@ using a jig saw.
 
 <b> BE SURE TO TEST ON SCRAP MATERIAL FIRST </b>
 
+![Sample Cut and Engraving](../../assets/img/IMG_20160721_201212.jpg)
+
 <i>Note: You may wish to keep the paper cover on your acrylic to avoid burn marks. </i>
 
   (1) Align the plate in the laser cutter.
@@ -51,6 +53,8 @@ using a jig saw.
   the lid to extinguish flames.
 
   (6) Repeat for each plate.
+
+![Laser Cutting in Progress](../../assets/img/IMG_20160803_191100.jpg)
 
 ## Cleanup
 
@@ -70,3 +74,5 @@ Your parts should all be complete at this point. Now you can assemble your contr
 
   1. Epilog 40W Laser Cutter. [https://www.epiloglaser.com/products/zing-laser-series.htm](https://www.epiloglaser.com/products/zing-laser-series.htm)
   2. Corel Draw. [http://www.coreldraw.com/en/](http://www.coreldraw.com/en/)
+
+[comment]: <> (324 Words)

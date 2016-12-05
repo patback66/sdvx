@@ -44,6 +44,9 @@ navigation:
   - title: Programming
     url: /programming/
     desc: Essentials of Programming
+  - title: References
+    url: /references/
+    desc: References Used
   #- title: Work
   #  url: /work/
   #  desc: Stuffs I hate to do

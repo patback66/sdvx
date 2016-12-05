@@ -65,3 +65,5 @@ and painting or staining will provide an even better exterior. Make it yours!
 Now that the frame is built, it's time for the plates!
 
 [Next Section](../../manufacturing/plates)
+
+[comment]: <> (329 Words)
