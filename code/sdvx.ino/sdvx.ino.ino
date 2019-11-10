@@ -17,6 +17,8 @@
 
 long oldPositionL  = -999;
 long oldPositionR  = -999;
+long mouseXmove = 5;
+long mouseYmove = 5;
 long idle = 1000;
 
 typedef struct {
@@ -110,17 +112,22 @@ void loop() {
       }*/
     long newPositionL = EncL.read();
     long newPositionR = EncR.read();
-    Serial.write(newPositionR);
-    Serial.write("\n");
+    //Serial.write("R: " + newPositionR);
+    //Serial.print("\n");
 
     if (newPositionL != oldPositionL) {
-      Mouse.move(newPositionL - oldPositionL, 0, 0);
+      long moveL = ((newPositionL - oldPositionL) > 1) ? 1 : -1;
+      Mouse.move(mouseXmove * moveL, 0, 0);
       oldPositionL = newPositionL;
+      
+      //Serial.print("L: " + String(newPositionL) + "\n");
     }
 
     if (newPositionR != oldPositionR) {
-      Mouse.move(0, newPositionR - oldPositionR, 0);
+      long moveR = ((newPositionR - oldPositionR) > 1) ? 1 : -1;
+      Mouse.move(0, mouseYmove * moveR, 0);
       oldPositionR = newPositionR;
+      //Serial.print("R: " + String(newPositionR) + "\n");
     }
   }
   if(idle >= 1000) {
@@ -147,4 +154,3 @@ void doIdle(){
     }
   }
 }
-
